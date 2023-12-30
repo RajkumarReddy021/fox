@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> PIPELINE ci !!!!!!!!!! </h2>
+<h2> PIPELINE CD !!!!!!!!!! </h2>
 </body>
 </html>

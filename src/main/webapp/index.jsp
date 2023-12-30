@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> PIPELINE CD !!!!!!!!!! </h2>
+<h2> PIPELINE Ci and cd Completed </h2>
 </body>
 </html>
